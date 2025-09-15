@@ -15,7 +15,7 @@ Il est recommandé de travailler dans un environnement virtuel
 
 ``` bash
 # Creation initiale  du virtual env
-python -m venv venv_vision2024
+python -m venv venv_vision2025
 # Activation du virtual env, a refaire a chaque ouverture d'un terminal
 source venv_vision2024/bin/activate
 #installation des requirements (à faire une fois avec le virtual env activé)
