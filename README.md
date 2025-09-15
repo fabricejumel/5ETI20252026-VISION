@@ -1,7 +1,7 @@
 
 ## Module VISION
 
-<img src="img/th.jpeg" height="300">
+<img src="img/th.jpeg" height="400">
 
 
 > [!IMPORTANT]
