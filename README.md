@@ -8,7 +8,7 @@
 > Le rendu se fera  sous forme d'un git sous gitlab qui sera généré une fois les groupes fixés. Le rendu se fera en monome ou binome. Dans le cas des binomes, les 2 comptes doivent contribuer de manière équitable ( au sens git)
 
 > [!CAUTION]
-> Le rendu doit être finalisé pour le Lundi 14 octobre 2024 23H00 
+> Le rendu v1  doit être finalisé pour le vendredi 3 octobre 23H00, un rendu v2 pour le vendredi 10 octobre 23H00. La note final du rendu sera une moyenne entre la V1 et la V2 . 
 
 
 Il est recommandé de travailler dans un environnement virtuel
