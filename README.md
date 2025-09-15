@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 Les actvités
 
-TP 0 [TP Intro ](TP_vision_intro.md)
+TP 0 [TP Intro ](TP_vision_intro.md) à faire en parralèle  des autres actitivtés
 
 TP 1 [TP Couleur ](TP_couleur.md)
 
