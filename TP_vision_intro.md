@@ -6,7 +6,7 @@ Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en pyt
  logicielles, le format d'entrée et les format de sorties ainsi qu'une estimation des temps de traitements/puissance de calcul. 
 
  > [!IMPORTANT]
-> Ce travail pourrait se révelait très long, Vous devez donc  a minima proposer 5 solutions au total.
+> Ce travail pourrait se révelait très long, Vous devez donc  a minima proposer 5 solutions au total (on ne proposera pas de solutions pour 1. L'idéal est d'avoir tester les solutions avec un exemple qui n'est pas celui de base associé à la solution.
 
 ### 1. **Détection d’objets et de personnes**
    - **Détection d’objets** : Identifier et localiser des objets dans l’environnement (ex. bouteilles, outils, meubles, etc.).
