@@ -31,9 +31,9 @@ Les actvités
 
 TP 0 [TP Intro ](TP_vision_intro.md) à faire en parralèle  des autres actitivtés
 
-TP 1 [TP Couleur ](TP_couleur.md)
+TP 1 [TP cascade de haar](TP_cascade_de_haar.md)
 
-TP 2 [TP cascade de haar](TP_cascade_de_haar.md)
+TP 2 [TP Couleur ](TP_couleur.md)
 
 TP 3 [TP detection ](TP_vision_detection.md)
 
