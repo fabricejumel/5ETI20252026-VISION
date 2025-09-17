@@ -1,3 +1,3 @@
 # TP Bonus
 
-Plutot que de detecter et localiser des balles de ping pong, on prefere reperer des tags visuelles (QR code ou équivalents) . Proposer une solution "au moins" équivalente a ce qui été fait pour les balles. Discuter de ce qui peut être fait de encore plus pertinnent avec les tags visuels
+Plutôt que de détecter et localiser des balles de ping-pong, on préfère repérer des tags visuels (QR codes ou équivalents). Proposer une solution au moins équivalente à ce qui a été fait pour les balles. Discuter de ce qui peut être fait de plus pertinent avec les tags visuels.
