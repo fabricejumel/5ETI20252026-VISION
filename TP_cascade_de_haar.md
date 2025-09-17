@@ -68,6 +68,8 @@ Mise en œuvre de la détection de visage au travers de la webcam. Prenez en mai
 - [https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/](https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/)
 
 Faites différents tests et illustrez votre rapport avec vos conclusions (présence de personnes, conditions d'éclairage, influence des paramètres...).
+Écrivez un code qui sauvegarde dans un répertoire visage, une image croppée du visage avec comme nom du fichier : `date_de_detection_numero.jpg` (numéro si plusieurs détectés sur l’image de 1 à N).  
+Vous ferez un choix concernant le format de la “date de détection”. Tester sur un flux video .
 
 ##### Quelques infos
 
@@ -80,9 +82,7 @@ La détection de visage est l'un des exemples de cascades de Haar implémentés 
 - [https://github.com/opencv/opencv/tree/master/data/haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)  
 - ou lié à des projets open-source divers (exemple: [https://github.com/mrnugget/opencv-haar-classifier-training/tree/master/trained_classifiers](https://github.com/mrnugget/opencv-haar-classifier-training/tree/master/trained_classifiers)).
 
-Écrivez un code qui sauvegarde dans un répertoire visage, une image croppée du visage avec comme nom du fichier : `date_de_detection_numero.jpg` (numéro si plusieurs détectés sur l’image de 1 à N).  
-Vous ferez un choix concernant le format de la “date de détection”.
-Proposez un format équivalent  dans le cas d'un flux video et tester le .
+
 
 
 #### 3) POUR INFORMATION UNIQUEMENT, Création d'un classifieur (les cascades de haar ne sont plus utilisé de nos jours et la face d'apprentissage se révélait capricieuse)
