@@ -37,6 +37,6 @@ TP 2 [TP Couleur ](TP_couleur.md)
 
 TP 3 [TP detection ](TP_vision_detection.md)
 
-TP 4 [TP detection et localiation de tag ](TP_tag.md)
+TP 4 [TP detection et localisation de tag ](TP_tag.md)
 
 
