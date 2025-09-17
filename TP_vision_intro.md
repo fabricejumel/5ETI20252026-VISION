@@ -26,7 +26,8 @@ Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en pyt
    - **Segmentation instance** : Différencier plusieurs instances du même type d’objet (ex. deux chaises différentes dans une pièce).
 
 ### 4. **Reconstruction 3D et perception de la profondeur**
-   - **Stéréovision** : Utiliser deux caméras pour percevoir la profondeur et reconstruire des scènes en 3D.
+   - **Stéréovision** : Utiliser deux caméras 2D pour percevoir la profondeur et reconstruire des scènes en 3D.
+   - **Depth Camera** : Utilisation de camera 3D (ToF , structured Light, LiDAR)
 
 ### 5. **Navigation visuelle**
    - **Reconnaissance de l'environnement** : Identifier les obstacles et les zones dégagées pour la navigation.
@@ -69,6 +70,7 @@ Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en pyt
    - **Suivi des expressions faciales** : Détecter et analyser les émotions humaines à partir des expressions du visage pour améliorer l’interaction homme-robot.
    - **Interaction vocale basée sur la vision** : Utiliser la vision pour améliorer la reconnaissance vocale (en identifiant les personnes qui parlent par leurs mouvements de bouche).
 
+### 14. **D'autres idées ...**
 
 
 
