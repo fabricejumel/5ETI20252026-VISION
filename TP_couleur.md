@@ -181,9 +181,9 @@ Créer une video pour bien montrer le pb et sa resolution. Il fera parti du rend
 Proposer un code qui résout ce problème. 
 
 ### Question 10
-Mettez en place un code permettant l’apprentissage de la couleur d’un objet se trouvant au milieu de l’image. Valider votre code avec 2 nouvelles couleurs de balles 
+Mettez en place un code permettant l’apprentissage de la couleur d’un objet se trouvant au milieu de l’image. Valider votre code avec 3 nouvelles couleurs de balles ( à prendre dans le stock de balles)
 
 ### Question 11
-En considérant que l’on connait la taille de la balle, proposer un code qui cherche à calculer la position de la balle dans un repère cartésien ou sphérique centré sur la caméra. Proposer une procédure d’étalonnage en effectuant plusieurs captation à des distances prédéfinies.
+En considérant que l’on connait la taille de la balle, proposer un code qui cherche à calculer la position de la balle dans un repère cartésien ou sphérique centré sur la caméra. Proposer une procédure d’étalonnage en effectuant plusieurs captation à des distances prédéfinies à la main.
 
 
