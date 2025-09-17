@@ -186,4 +186,6 @@ Mettez en place un code permettant l’apprentissage de la couleur d’un objet 
 ### Question 11
 En considérant que l’on connait la taille de la balle, proposer un code qui cherche à calculer la position de la balle dans un repère cartésien ou sphérique centré sur la caméra. Proposer une procédure d’étalonnage en effectuant plusieurs captation à des distances prédéfinies à la main.
 
+### Question 12
+Dans le faits il existe des procedure "automatique" de calibration de caméra . Comment ce la mar he t il lien avec ce que vous avez fait à la question 11. Utiliser l'un de celle prévu par opencv. Comment intégrer la calibration pour déduire la distance de la balle . Comparer les 2 approches.
 
