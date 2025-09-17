@@ -183,17 +183,6 @@ Proposer un code qui résout ce problème.
 ### Question 10
 Mettez en place un code permettant l’apprentissage de la couleur d’un objet se trouvant au milieu de l’image. Valider votre code avec 3 nouvelles couleurs de balles ( à prendre dans le stock de balles)
 
-### Q111 – Estimation de distance par interpolation
-
-En connaissant le diamètre réel de la balle, proposez une méthode simple pour estimer sa distance par rapport à la caméra.
-
-Prenez plusieurs photos de la balle à différentes distances connues et mesurez le diamètre apparent en pixels sur chaque image. Concentrez-vous d’abord sur la médiatrice verticale pour effectuer vos mesures, puis observez ce qui se passe au niveau horizontal.
-
-À partir de ces mesures, construisez une relation simple, par interpolation linéaire ou polynomiale, entre la taille en pixels et la distance réelle. Testez cette relation sur des images prises à des distances inconnues.
-
-L’objectif de cette approche expérimentale est de préparer la question 12, où la distance sera estimée automatiquement grâce à la calibration de la caméra.
-
-
 
 ### Question 11 – Estimation de distance par interpolation
 
