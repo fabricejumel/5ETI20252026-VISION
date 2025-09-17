@@ -82,6 +82,7 @@ La détection de visage est l'un des exemples de cascades de Haar implémentés 
 
 Écrivez un code qui sauvegarde dans un répertoire visage, une image croppée du visage avec comme nom du fichier : `date_de_detection_numero.jpg` (numéro si plusieurs détectés sur l’image de 1 à N).  
 Vous ferez un choix concernant le format de la “date de détection”.
+Proposez un format équivalent  dans le cas d'un flux video et tester le .
 
 
 #### 3) POUR INFORMATION UNIQUEMENT, Création d'un classifieur (les cascades de haar ne sont plus utilisé de nos jours et la face d'apprentissage se révélait capricieuse)
