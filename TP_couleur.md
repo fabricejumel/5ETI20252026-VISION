@@ -175,7 +175,7 @@ Faites fonctionner votre code précédent en prenant en compte la couleur rose s
 
 ### Question 8
 A priori votre code passe d'une boule à l'autre (en trackant la plus grosse), comment est-il possible de rester toujours sur la même ?  
-Si vous n'avez pas le comportement a problème,  créer votre propre vidéo pour mettre en évidence le problème (Utiliser l’outil `cheese` sous Linux et une caméra pour cela).
+Créer une video pour bien montrer le pb et sa resolution. Il fera parti du rendu. Utiliser par exemple l’outil `cheese` sous Linux et une caméra pour cela.
 
 ### Question 9
 Proposer un code qui résout ce problème. 
