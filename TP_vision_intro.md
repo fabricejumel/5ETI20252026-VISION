@@ -6,7 +6,7 @@ Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en pyt
  logicielles, le format d'entrée et les format de sorties ainsi qu'une estimation des temps de traitements/puissance de calcul. 
 
  > [!IMPORTANT]
-> Ce travail pourrait se révelait très long. On essayera de faire un tableau (on ne se fira pas à des IA sans vérification et l'ont vérifira les sites de references à ajouter dans votre tableau)  qui montre au moins  une solution pour chaque besoin et Vous develloperez  a minima proposer 3 solutions  (on ne proposera pas de solutions pour 1. L'idéal est pour ces solutions d'avoir tester les solutions avec un exemple qui n'est pas celui de base associé à la solution.
+> Ce travail pourrait se révelait très long. On proposera un  tableau de solutions existantes pour les items  (on ne se fira pas à des IA sans vérification et l'ont vérifira les sites de references à ajouter dans votre tableau)  qui montre au moins  une solution pour chaque besoin et Vous develloperez  a minima proposer 3 solutions  (on ne proposera pas de solutions pour 1. L'idéal est pour ces solutions d'avoir tester les solutions avec un exemple qui n'est pas celui de base associé à la solution.
 
 ### 1. **Détection d’objets et de personnes**
    - **Détection d’objets** : Identifier et localiser des objets dans l’environnement (ex. bouteilles, outils, meubles, etc.).
