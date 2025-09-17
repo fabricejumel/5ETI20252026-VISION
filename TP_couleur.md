@@ -187,4 +187,4 @@ Mettez en place un code permettant l’apprentissage de la couleur d’un objet 
 En considérant que l’on connait la taille de la balle, proposer un code qui cherche à calculer la position de la balle dans un repère cartésien ou sphérique centré sur la caméra. Proposer une procédure d’étalonnage en effectuant plusieurs captation à des distances prédéfinies.
 
 ### Question 12 (Bonus)
-Si on fait l’hypothèse que l’objet est une balle (ronde), montrer comment on peut prendre en compte l’information et reconstituer le cercle de contour de cette balle.
+Peut on envisager un comportmeent equiavlent avec un "TAG visuelle", discuter des avantages et incovenients d el'usage des Tags par rapport aux couleurs . Propsoez des solutions existentes. Tester en une si possibles
