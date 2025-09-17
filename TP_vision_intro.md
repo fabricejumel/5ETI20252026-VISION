@@ -70,7 +70,7 @@ Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en pyt
    - **Suivi des expressions faciales** : Détecter et analyser les émotions humaines à partir des expressions du visage pour améliorer l’interaction homme-robot.
    - **Interaction vocale basée sur la vision** : Utiliser la vision pour améliorer la reconnaissance vocale (en identifiant les personnes qui parlent par leurs mouvements de bouche).
 
-### 14. **D'autres idées ... ??? **
+### 14. **D'autres idées ... ???**
 
 
 
