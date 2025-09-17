@@ -84,7 +84,7 @@ La détection de visage est l'un des exemples de cascades de Haar implémentés 
 Vous ferez un choix concernant le format de la “date de détection”.
 
 
-#### 3) Création d'un classifieur (« Pour information mais ne pas faire dans le cadre du TP »)
+#### 3) POUR INFORMATION Création d'un classifieur (les cascades de haar ne sont plus utilisé de nos jours et la face d'apprentissage se révélait capricieuse)
 
 L'idée est de mettre en place votre propre classifieur en vous basant sur le tutoriel et les codes suivants:
 - [https://github.com/mrnugget/opencv-haar-classifier-training](https://github.com/mrnugget/opencv-haar-classifier-training)
