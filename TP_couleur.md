@@ -183,9 +183,38 @@ Proposer un code qui résout ce problème.
 ### Question 10
 Mettez en place un code permettant l’apprentissage de la couleur d’un objet se trouvant au milieu de l’image. Valider votre code avec 3 nouvelles couleurs de balles ( à prendre dans le stock de balles)
 
-### Question 11
-En considérant que l’on connait la taille de la balle, proposer un code qui cherche à calculer la position de la balle dans un repère cartésien ou sphérique centré sur la caméra. Proposer une procédure d’étalonnage en effectuant plusieurs captation à des distances prédéfinies à la main.
+### Q111 – Estimation de distance par interpolation
 
-### Question 12
-Dans le faits il existe des procedure "automatique" de calibration de caméra . Comment ce la mar he t il lien avec ce que vous avez fait à la question 11. Utiliser l'un de celle prévu par opencv. Comment intégrer la calibration pour déduire la distance de la balle . Comparer les 2 approches.
+En connaissant le diamètre réel de la balle, proposez une méthode simple pour estimer sa distance par rapport à la caméra.
+
+Prenez plusieurs photos de la balle à différentes distances connues et mesurez le diamètre apparent en pixels sur chaque image. Concentrez-vous d’abord sur la médiatrice verticale pour effectuer vos mesures, puis observez ce qui se passe au niveau horizontal.
+
+À partir de ces mesures, construisez une relation simple, par interpolation linéaire ou polynomiale, entre la taille en pixels et la distance réelle. Testez cette relation sur des images prises à des distances inconnues.
+
+L’objectif de cette approche expérimentale est de préparer la question 12, où la distance sera estimée automatiquement grâce à la calibration de la caméra.
+
+
+
+### Question 11 – Estimation de distance par interpolation
+
+En connaissant le diamètre réel de la balle, proposez une méthode simple pour estimer sa distance par rapport à la caméra.
+
+Prenez plusieurs photos de la balle à différentes distances connues et mesurez le diamètre apparent en pixels sur chaque image. Concentrez-vous d’abord sur la médiatrice verticale pour effectuer vos mesures, puis observez ce qui se passe au niveau horizontal.
+
+À partir de ces mesures, construisez une relation simple, par interpolation linéaire ou polynomiale, entre la taille en pixels et la distance réelle. Testez cette relation sur des images prises à des distances inconnues.
+
+L’objectif de cette approche expérimentale est de préparer la question 12, où la distance sera estimée automatiquement grâce à la calibration de la caméra.
+
+---
+
+### Question 12 – Estimation automatique de la distance via calibration
+
+Utilisez la librairie **OpenCV** pour calibrer la caméra à partir d’un motif connu (échiquier ou autre).
+
+Expliquez à quoi correspondent la **matrice intrinsèque**, qui contient les informations de focale et de centre optique, et les **coefficients de distorsion** (radiale et tangente). Décrivez comment ces éléments permettent de corriger l’image afin de mesurer correctement les distances.
+
+Après correction de la distorsion, mesurez la taille apparente de la balle pour estimer automatiquement sa distance par rapport à la caméra, sans passer par une interpolation manuelle.
+
+Enfin, expliquez le lien avec la question 11 et comparez les deux approches en termes de précision et de principe.
+
 
