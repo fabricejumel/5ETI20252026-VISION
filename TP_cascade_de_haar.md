@@ -66,7 +66,7 @@ Dans votre rapport, on doit voir:
 
 Mise en œuvre de la détection de visage au travers de la webcam. Prenez en main le code décrit dans l'article suivant:
 - [https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/]([https://www.geeksforgeeks.org/python/face-detection-using-python-and-opencv-with-webcam/]
-- [https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/]([https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/](https://www.geeksforgeeks.org/python/face-detection-using-python-and-opencv-with-webcam/
+
 
 Faites différents tests et illustrez votre rapport avec vos conclusions (présence de personnes, conditions d'éclairage, influence des paramètres...).
 Écrivez un code qui sauvegarde dans un répertoire visage, une image croppée du visage avec comme nom du fichier : `date_de_detection_numero.jpg` (numéro si plusieurs détectés sur l’image de 1 à N).  
