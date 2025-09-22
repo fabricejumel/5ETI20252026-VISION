@@ -65,7 +65,7 @@ Dans votre rapport, on doit voir:
 #### 2) Prise en main des traitements en temps réel, mise en œuvre de la webcam sous OpenCV
 
 Mise en œuvre de la détection de visage au travers de la webcam. Prenez en main le code décrit dans l'article suivant:
-- [https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/](https://www.geeksforgeeks.org/python/face-detection-using-python-and-opencv-with-webcam/)
+- [https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/](https://www.geeksforgeeks.org/python/face-detection-using-python-and-opencv-with-webcam/)](https://www.geeksforgeeks.org/python/face-detection-using-python-and-opencv-with-webcam/)
 
 
 Faites différents tests et illustrez votre rapport avec vos conclusions (présence de personnes, conditions d'éclairage, influence des paramètres...).
