@@ -39,7 +39,7 @@ Le rendu sera fait sur git avec un rapport contenant les codes et exemples
 
 ---
 
-## Partie 3 : Préparation à l’entraînement de votre propre classificateur
+## Partie 3 : Préparation à l’entraînement de votre propre détécteur
 
 Choissisez entre 5 et 10 objets, vous devrez faire une vingtaine de photo par objets, ideallement avec des fonds différents et plusieurs objets par photo et des objets que vous ne voulez pas reconnaitre. 
 
